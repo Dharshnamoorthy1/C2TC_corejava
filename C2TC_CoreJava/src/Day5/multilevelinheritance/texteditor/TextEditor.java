@@ -1,4 +1,4 @@
-//Program to demonstrate Multilevel Inheritance
+
 package Day5.multilevelinheritance.texteditor;
 
 public class TextEditor {

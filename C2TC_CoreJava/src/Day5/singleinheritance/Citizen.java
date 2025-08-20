@@ -1,4 +1,4 @@
-//Program to demonstrate Single level inheritance with this and super keywords
+
 package Day5.singleinheritance;
 
 public class Citizen {

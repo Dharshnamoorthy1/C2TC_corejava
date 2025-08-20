@@ -1,7 +1,7 @@
-//Program to define Contained class
+
 package Day5.association.hasa;
 
-//Contained class
+
 public class Address {
 
 	private String street;
@@ -9,7 +9,7 @@ public class Address {
 	private String state;
 	private String postalCode;
 
-	// Constructor
+
 	public Address() {
 		super();
 
@@ -23,7 +23,7 @@ public class Address {
 		this.postalCode = postalCode;
 	}
 
-	// getter/setter methods
+	
 	public String getStreet() {
 		return street;
 	}

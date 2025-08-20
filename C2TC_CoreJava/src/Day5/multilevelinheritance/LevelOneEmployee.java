@@ -1,4 +1,4 @@
-//Program to define intermediate class inheriting from Employee
+
 package Day5.multilevelinheritance;
 
 import java.util.Date;

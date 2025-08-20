@@ -1,7 +1,7 @@
-//Program to demonstrate Single Inheritance 
+
 package Day5.singleinheritance;
 
-//creating child class
+
 public class Student extends Citizen {
 	private int rollNo;
 	private String collegeName;
@@ -11,7 +11,7 @@ public class Student extends Citizen {
 	}
 
 	public Student(String name, String aadharNo, String address, long phno, int rollNo, String collegeName) {
-		super(name, aadharNo, address, phno); //accessing parent class constructor
+		super(name, aadharNo, address, phno); 
 		this.rollNo = rollNo;
 		this.collegeName = collegeName;
 	}

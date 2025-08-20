@@ -1,4 +1,4 @@
-//Program to define base class Employee
+
 package Day5.multilevelinheritance;
 
 import java.util.Date;

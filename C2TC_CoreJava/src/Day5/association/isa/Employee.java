@@ -1,13 +1,13 @@
-//Program to demonstrate usage of IS A Relationship 
+
 package Day5.association.isa;
 
-// Superclass
+
 public class Employee {
 	private String name;
 	private int employeeId;
 	private String department;
 
-	// constructors
+	
 	public Employee() {
 		super();
 	}
@@ -20,7 +20,6 @@ public class Employee {
 
 	}
 
-	// getter/setter methods
 	public String getName() {
 		return name;
 	}

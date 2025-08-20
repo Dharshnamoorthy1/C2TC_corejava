@@ -1,4 +1,4 @@
-//Program to define child class Wordpad with formatting text feature
+
 package Day5.multilevelinheritance.texteditor;
 
 public class Wordpad extends Notepad {

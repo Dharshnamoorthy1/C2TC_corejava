@@ -1,4 +1,4 @@
-//Program to demonstrate Hierarchical Inheritance - Employee Class
+
 package Day5.hierarchicalinheritance;
 public class Employee extends Person{
 	private int empId;

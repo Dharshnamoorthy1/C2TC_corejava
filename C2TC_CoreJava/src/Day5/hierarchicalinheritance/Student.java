@@ -1,4 +1,4 @@
-////Program to demonstrate Hierarchical Inheritance - Student Class
+
 package Day5.hierarchicalinheritance;
 
 public class Student extends Person

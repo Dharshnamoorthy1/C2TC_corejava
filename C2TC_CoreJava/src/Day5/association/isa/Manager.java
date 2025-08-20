@@ -1,10 +1,10 @@
 package Day5.association.isa;
 
-//Subclass inheriting from Employee
+
 public class Manager extends Employee {
 	private int teamSize;
 
-	// constructors
+
 	public Manager() {
 		super();
 
@@ -15,7 +15,7 @@ public class Manager extends Employee {
 		this.teamSize = teamSize;
 	}
 
-	// getter/setter methods
+	
 	public int getTeamSize() {
 		return teamSize;
 	}

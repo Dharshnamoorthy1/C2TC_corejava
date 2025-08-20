@@ -1,4 +1,4 @@
-//Program to define child class Word with advance feature
+
 package Day5.multilevelinheritance.texteditor;
 
 public class Word extends Wordpad {
@@ -12,7 +12,7 @@ public class Word extends Wordpad {
     public void spellCheck() {
         if (spellCheckEnabled) {
             System.out.println("Running spell check...");
-            // Simulate spell check logic here
+            
         } else {
             System.out.println("Spell check is disabled.");
         }

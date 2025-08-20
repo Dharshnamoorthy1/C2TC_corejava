@@ -1,4 +1,4 @@
-// Program to demonstrate usage of the "HAS-A" relationship
+
 package Day5.association.hasa;
 
 public class Exceutor {

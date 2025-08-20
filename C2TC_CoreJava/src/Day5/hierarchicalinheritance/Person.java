@@ -1,4 +1,4 @@
-//Program to demonstrate Hierarchical Inheritance - Person Class
+
 package Day5.hierarchicalinheritance;
 
 public class Person {
