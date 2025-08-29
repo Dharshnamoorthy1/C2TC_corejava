@@ -1,4 +1,4 @@
-
+//Student entity
 package Day10;
 
 public class Student {

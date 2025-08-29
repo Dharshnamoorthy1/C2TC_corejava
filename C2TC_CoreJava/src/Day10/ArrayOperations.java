@@ -1,4 +1,4 @@
-
+//Program to define class with array operations
 package Day10;
 
 public class ArrayOperations
