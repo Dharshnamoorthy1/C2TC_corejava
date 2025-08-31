@@ -1,4 +1,4 @@
-//Using Inbuilt types of Functional Interfaces
+
 package Day19.v1;
 
 import java.util.function.BiFunction;
