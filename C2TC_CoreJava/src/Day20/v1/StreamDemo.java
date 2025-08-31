@@ -1,5 +1,5 @@
 //Using reduce(), filter(), map() on User defined Object List
-package com.tnsif.daytwenty.v1;
+package Day20.v1;
 
 import java.util.ArrayList;
 import java.util.List;
